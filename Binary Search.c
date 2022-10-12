@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int binarySearch(int array[], int x, int low, int high) {
-
+    printf("RA2211042010005\n");
   while (low <= high) {
     int mid = low + (high - low) / 2;
 
