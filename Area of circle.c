@@ -2,15 +2,15 @@
 int main()
 {
    
-   int rad;
-   float PI = 3.14, area, ci;
-   printf("RA2211042010005");
-   printf("\nEnter radius of circle: ");
-   scanf("%d", &rad);
+int rad;
+float PI = 3.14, area, ci;
+  printf("RA2211042010005");
+  printf("\nEnter radius of circle: ");
+  scanf("%d", &rad);
 
-   area = PI * rad * rad;
-   printf("\nArea of circle : %f ", area);
+  area = PI * rad * rad;
+  printf("\nArea of circle : %f ", area);
 
-   ci = 2 * PI * rad;
-   printf("\nCircumference : %f ", ci);
+  ci = 2 * PI * rad;
+  printf("\nCircumference : %f ", ci);
 }
