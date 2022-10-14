@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main()
 {
-   
-int rad;
-float PI = 3.14, area, ci;
+ int rad;
+ float PI = 3.14, area, ci;
   printf("RA2211042010005");
   printf("\nEnter radius of circle: ");
   scanf("%d", &rad);
