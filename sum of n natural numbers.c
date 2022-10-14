@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() 
 {
-    int n, i, sum = 0;
+   printf("RA2211042010005\n");
+   int n, i, sum = 0;
     printf("Enter a positive integer: ");
     scanf("%d", &n);
 
