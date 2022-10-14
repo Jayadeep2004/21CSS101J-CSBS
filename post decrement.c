@@ -1,5 +1,5 @@
 #include <stdio.h>
-main()
+int main()
 {
   int a=4;
   printf("The value of a returned after post decrement is = %d",a--);
